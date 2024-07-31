@@ -22,8 +22,7 @@ A simple dApp that allows users to check their Algorand wallet  balance.
     <script src="https://unpkg.com/@randlabs/myalgo-connect"></script>
     <script src="app.js"></script>
 </body>
-</html>
-</code>
+</html></code>
 <h1>For the wallet integration and token distribution logic:</h1>
 <h2>app.js</h2>
 <code>const algosdk = require('algosdk');
