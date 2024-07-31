@@ -1,5 +1,7 @@
 # Basic-Wallet-Balance-Checker-
 A simple dApp that allows users to check their Algorand wallet  balance.
+<h1>Introduction</h1>
+<div style="position:relative; width:100%; height:0px; padding-bottom:177.778%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/kkhjk6?autoplay=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 <h1>Install Algorand SDK</h1>
 <code>npm install algosdk</code>
 <h1>Install MyAlgo Connect</h1>
@@ -89,7 +91,7 @@ document.getElementById('requestTokens').onclick = async () => {
 http-server
 </code>
 2. Open your browser and navigate to http://localhost:8080 (or the port specified by http-server).
-<a href="https://ibb.co/hmVyVrw"><img src="https://i.ibb.co/yQqXqK7/Screenshot-2024-07-31-174341.png" alt="Screenshot-2024-07-31-174341" border="0"></a>
+<a href="https://ibb.co/xgZ9yfL"><img src="https://i.ibb.co/0954kF2/http-server.png" alt="http-server" border="0"></a>
 <br>Now, users should be able to connect their Algorand wallets, view their balance, and request tokens.</br>
 <h1>Screenshot</h1>
 <a href="https://ibb.co/4JFZw3D"><img src="https://i.ibb.co/x32SKdc/Dapp-ss.png" alt="Dapp-ss" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload image</a><br />
