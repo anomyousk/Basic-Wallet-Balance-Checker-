@@ -90,7 +90,7 @@ http-server
 </code>
 2. Open your browser and navigate to http://localhost:8080 (or the port specified by http-server).
 <a href="https://ibb.co/hmVyVrw"><img src="https://i.ibb.co/yQqXqK7/Screenshot-2024-07-31-174341.png" alt="Screenshot-2024-07-31-174341" border="0"></a>
-Now, users should be able to connect their Algorand wallets, view their balance, and request tokens.
+<br>Now, users should be able to connect their Algorand wallets, view their balance, and request tokens.</br>
 <h1>Screenshot</h1>
 <a href="https://ibb.co/4JFZw3D"><img src="https://i.ibb.co/x32SKdc/Dapp-ss.png" alt="Dapp-ss" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload image</a><br />
 
