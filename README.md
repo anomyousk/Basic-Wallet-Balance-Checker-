@@ -1,7 +1,7 @@
 # Basic-Wallet-Balance-Checker-
 A simple dApp that allows users to check their Algorand wallet  balance.
 <h1>Introduction</h1>
-<div style="position:relative; width:100%; height:0px; padding-bottom:177.778%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/kkhjk6?autoplay=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+https://streamable.com/kkhjk6
 <h1>Install Algorand SDK</h1>
 <code>npm install algosdk</code>
 <h1>Install MyAlgo Connect</h1>
